@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&style=flat-square&logo=FastAPI&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat-square&logo=MongoDB&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?&style=flat-square&logo=PostgreSQL&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2.svg?&style=flat-square&logo=MLflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?&style=flat-square&logo=Streamlit&logoColor=white)
