@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 # HEECHAN KOO
 <a href="https://github.com/kooqooo/">
 
-![Heechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kooqooo&show_icons=true&theme=dark&count_private=true&hide_title=true&rank_icon=percentile&detail=true)[<img height=165 src="http://mazassumnida.wtf/api/generate_badge?boj=tankgewehr"/>](https://solved.ac/tankgewehr)
-<!--
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kooqooo&theme=dark&layout=donut&hide_title=true&private=true&hide=jupyter%20notebook&langs_count=8&size_weight=0.5&count_weight=0.5)
--->
+[<img src="http://mazassumnida.wtf/api/generate_badge?boj=tankgewehr"/>](https://solved.ac/tankgewehr)<img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kooqooo&theme=dark&layout=donut&hide_title=true&private=true&hide=jupyter%20notebook">
 
 <!--
 ## Language
